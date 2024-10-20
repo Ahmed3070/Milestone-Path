@@ -80,6 +80,7 @@ body {
 .btn:disabled {
     background-color:#7f8c8d;
     cursor:not-allowed;
+    transform:none;
 }
 .btn:focus{
     outline:none;
